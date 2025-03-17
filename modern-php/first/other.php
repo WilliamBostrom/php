@@ -1,0 +1,1 @@
+<h1>Iam other.php file</h1>
