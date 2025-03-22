@@ -20,7 +20,7 @@ echo "Welcome back!\nWe're glad to see you again.<br/>Check out our new features
     echo ($meaning - 2) . "\n";
     echo ($meaning / 2) . "\n";
 
-    // echo round(3.33, 1)
+    var_dump("hello from var dump")
     ?>
   </pre>
 </body>
